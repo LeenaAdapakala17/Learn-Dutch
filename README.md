@@ -16,7 +16,7 @@ This is a simple and elegant web application designed to help beginners learn ba
 
 ## 🚀 Live Demo
 
-🌐 [Click here to try the app](https://leenaadapakala17.github.io/learn-dutch/)
+🌐 [Click here to try the app](https://leenaadapakala17.github.io/Learn-Dutch/)
 
 > *(Once you've uploaded your files and enabled GitHub Pages, the app will be available at the link above.)*
 
