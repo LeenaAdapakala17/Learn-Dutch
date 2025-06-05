@@ -24,6 +24,7 @@ This is a simple and elegant web application designed to help beginners learn ba
 
 ## 📂 Project Structure
 
+
 learn-dutch-app/
 │
 ├── index.html # Main HTML file
